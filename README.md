@@ -1,4 +1,5 @@
-# Machine-Learning-detection-for-SMiShing-frauds
+# Machine-Learning-detection-for-SMiShing-frauds 
+for CCNC2021 demonstration. Authors in no particular order: Akshaya Ravi, Badr Boukari, Mounira Msahli
 
 A simple application which allows to compare performance of various Machine learning algorithms in phishing SMS detection.
 
