@@ -10,5 +10,6 @@ Implementation of 2 ML algorithm : Naive Bayes and Random Forest.
 
 The executable of the final application is : "SpamDetector"
 
-(*)Note: Completely developed in python!
+(*)Note: Completely developed in python.
 Developed for CCNC2021 demonstration. Authors in no particular order: Badr Boukari, Mounira Msahli, Akshaya Ravi
+https://ieeexplore.ieee.org/document/9369640
